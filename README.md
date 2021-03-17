@@ -1,2 +1,2 @@
 # hello-there
-Hello There product repo
+A simple hello there website
